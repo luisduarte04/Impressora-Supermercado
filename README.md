@@ -11,4 +11,4 @@ Express
 Git e GitHub
 Suporte Técnico
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,mysql,ts,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,mysql,ts,nodejs)](https://skillicons.dev)
